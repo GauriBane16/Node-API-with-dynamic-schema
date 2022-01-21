@@ -1,1 +1,1 @@
-# Node-API-with-dynamic-schema
+# NINJA-TEMPLATE
